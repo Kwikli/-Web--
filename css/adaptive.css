@@ -46,7 +46,7 @@
     .input-res{
         margin: 0 8px;
         min-width: 37%;
-        max-width: 50%;
+        max-width: 95%;
     }
     .footer_flex{
         flex-direction: column-reverse;
