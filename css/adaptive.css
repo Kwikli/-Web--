@@ -18,6 +18,9 @@
     }
 }
 @media (max-width: 647px){
+    .modal_content{
+        height: 97%;
+    }
     .card{
         width: auto;
     }
